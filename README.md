@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LeonKleimusch
+- 👀 I’m interested in coding Arduino Sketches
+- 🌱 I’m currently learning Arduino
